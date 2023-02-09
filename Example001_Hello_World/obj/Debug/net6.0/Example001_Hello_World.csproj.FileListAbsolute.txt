@@ -1,0 +1,15 @@
+D:\Education_GEEK_BRAIN\Work folder GIT\Vvedenie_C#\Example001_Hello_World\bin\Debug\net6.0\Example001_Hello_World.exe
+D:\Education_GEEK_BRAIN\Work folder GIT\Vvedenie_C#\Example001_Hello_World\bin\Debug\net6.0\Example001_Hello_World.deps.json
+D:\Education_GEEK_BRAIN\Work folder GIT\Vvedenie_C#\Example001_Hello_World\bin\Debug\net6.0\Example001_Hello_World.runtimeconfig.json
+D:\Education_GEEK_BRAIN\Work folder GIT\Vvedenie_C#\Example001_Hello_World\bin\Debug\net6.0\Example001_Hello_World.dll
+D:\Education_GEEK_BRAIN\Work folder GIT\Vvedenie_C#\Example001_Hello_World\bin\Debug\net6.0\Example001_Hello_World.pdb
+D:\Education_GEEK_BRAIN\Work folder GIT\Vvedenie_C#\Example001_Hello_World\obj\Debug\net6.0\Example001_Hello_World.csproj.AssemblyReference.cache
+D:\Education_GEEK_BRAIN\Work folder GIT\Vvedenie_C#\Example001_Hello_World\obj\Debug\net6.0\Example001_Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education_GEEK_BRAIN\Work folder GIT\Vvedenie_C#\Example001_Hello_World\obj\Debug\net6.0\Example001_Hello_World.AssemblyInfoInputs.cache
+D:\Education_GEEK_BRAIN\Work folder GIT\Vvedenie_C#\Example001_Hello_World\obj\Debug\net6.0\Example001_Hello_World.AssemblyInfo.cs
+D:\Education_GEEK_BRAIN\Work folder GIT\Vvedenie_C#\Example001_Hello_World\obj\Debug\net6.0\Example001_Hello_World.csproj.CoreCompileInputs.cache
+D:\Education_GEEK_BRAIN\Work folder GIT\Vvedenie_C#\Example001_Hello_World\obj\Debug\net6.0\Example001_Hello_World.dll
+D:\Education_GEEK_BRAIN\Work folder GIT\Vvedenie_C#\Example001_Hello_World\obj\Debug\net6.0\refint\Example001_Hello_World.dll
+D:\Education_GEEK_BRAIN\Work folder GIT\Vvedenie_C#\Example001_Hello_World\obj\Debug\net6.0\Example001_Hello_World.pdb
+D:\Education_GEEK_BRAIN\Work folder GIT\Vvedenie_C#\Example001_Hello_World\obj\Debug\net6.0\Example001_Hello_World.genruntimeconfig.cache
+D:\Education_GEEK_BRAIN\Work folder GIT\Vvedenie_C#\Example001_Hello_World\obj\Debug\net6.0\ref\Example001_Hello_World.dll
